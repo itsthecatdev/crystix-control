@@ -1,0 +1,12 @@
+channels:
+  count: 1
+  hightlight: 
+    - 1
+
+channel_config:
+  1:
+    type: dimmer
+    default: 0
+    presets:
+      0: closed
+      100: open

@@ -1,0 +1,3 @@
+@echo off
+echo starting crystix terminal...
+start boot.py
