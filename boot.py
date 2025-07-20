@@ -125,7 +125,6 @@ def run_command(event=None):
 
 cmd_entry.bind("<Return>", run_command)
 
-# ip of mc.originrealms.net/crystix: 192.168.178.136
 # Layout buttons
 buttons = [btn.EXIT, btn.COPY, btn.PSTE, btn.EXEC, btn.NEXT, btn.PREV, btn.ENTR, btn.NUMB]
 buttons_management = [btn.SETUP, btn.FIXTURES, btn.OUTPUTS]
